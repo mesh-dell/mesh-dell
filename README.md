@@ -1,6 +1,6 @@
 [![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif)](https://mesh-dell.io)
 <h1 align="center">Hi 👋, I'm Mesh Irungu</h1>
-<h3 align="center">A passionate android engineer from Kenya</h3>
+<h3 align="center">A passionate software engineer from Kenya</h3>
 <img align="right" alt = "Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesh-dell&label=Profile%20views&color=0e75b6&style=flat" alt="mesh-dell" /> </p>

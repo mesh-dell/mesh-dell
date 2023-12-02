@@ -1,21 +1,21 @@
 [![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif)](https://mesh-dell.io)
-<h1 align="center">Hi 👋, I'm Mesh Irungu</h1>
-<h3 align="center">A passionate software engineer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Mesh</h1>
+<h3 align="center">A software engineer</h3>
 <img align="right" alt = "Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesh-dell&label=Profile%20views&color=0e75b6&style=flat" alt="mesh-dell" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dunehung" target="blank"><img src="https://img.shields.io/twitter/follow/dunehung?logo=twitter&style=for-the-badge" alt="dunehung" /></a> </p>
 
-- 🔭 I’m currently working on **Weather app**
+- 🔭 I’m currently working on **Some interesting stuff**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **About web**
 
-- 💬 Ask me about **C, Java, Python, Blender**
+- 💬 Ask me about **C++, Java, Python, Blender**
 
 - 📫 How to reach me **mwaimonicas@gmail.com**
 
-- ⚡ Fun fact **I am an introvert**
+- ⚡ Fun fact **My dream vacation is going to Cappadocia and riding in a hot air balloon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
